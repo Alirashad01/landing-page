@@ -73,7 +73,7 @@ section {
 
 .navbar__menu li {
     display: inline-block;
-    padding: 10px;
+
 }
 
 
@@ -84,6 +84,7 @@ section {
     text-decoration: none;
     color: #000;
     text-transform: capitalize;
+    padding: 15px;
 }
 
 .navbar__menu .menu__link:hover {
