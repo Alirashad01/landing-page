@@ -31,7 +31,7 @@ function liCreate(num) {
     navbarList.appendChild(listItem);
     link.setAttribute("href", "#");
     link.setAttribute("class", "menu__link");
-    link.setAttribute("id", `section${num}`);
+    link.setAttribute("id", `sect${num}`);
     //listItem.setAttribute("id", "list");
     
 } 
